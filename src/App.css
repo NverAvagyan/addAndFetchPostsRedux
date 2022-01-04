@@ -1,0 +1,8 @@
+.dark {
+  background-color: rgb(53, 56, 56);
+}
+
+.dark * {
+  background-color: rgb(53, 56, 56);
+  color: white;
+}
